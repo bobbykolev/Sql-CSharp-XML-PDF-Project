@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<albums>
+  <album>
+    <name>Immortal</name>
+    <artist>Beth Hart</artist>
+    <year>1996.05.21</year>
+    <producer>Hugh Padgham</producer>
+    <price>18.50</price>
+    <genre>Rock</genre>
+    <songs>
+      <song duration="04:44">Spiders In My Bed</song>
+      <song duration="05:17">Isolation</song>
+      <song duration="04:08">Hold Me Through The Night</song>
+      <song duration="02:51">State Of Mind</song>
+      <song duration="04:10">Burn Chile</song>
+      <song duration="04:23">Immortal</song>
+      <song duration="04:44">Summer Is Gone</song>
+      <song duration="03:06">Ringing</song>
+      <song duration="03:10">God Bless You</song>
+      <song duration="06:39">Am I The One</song>
+      <song duration="02:43">Blame The Moon</song>
+    </songs>
+  </album>
+  <album>
+    <name>Screamin' For My Supper</name>
+    <artist>Beth Hart</artist>
+    <year>1999.03.08</year>
+    <producer>Beth Hart</producer>
+    <price>22.00</price>
+    <genre>Rock</genre>
+    <songs>
+      <song duration="05:16">Just A Little Hole</song>
+      <song duration="03:48">Delicious Surprise</song>
+      <song duration="03:55">L.A. Song</song>
+      <song duration="03:32">Is That Too Much To Ask</song>
+      <song duration="04:08">By Her</song>
+      <song duration="04:42">Get Your Shit Together</song>
+      <song duration="04:49">Stay</song>
+      <song duration="04:00">G.O.P.</song>
+      <song duration="05:00">Skin</song>
+      <song duration="03:44">Girls Say</song>
+      <song duration="04:34">Sky Is Falling</song>
+      <song duration="04:27">Mama</song>
+      <song duration="09:02">Favorite Things / House Of Sin</song>
+    </songs>
+  </album>
+  <album>
+    <name>Avalon</name>
+    <artist>Sully Erna</artist>
+    <year>2010.09.14</year>
+    <producer>Sully Erna</producer>
+    <price>28.00</price>
+    <genre>Acoustic Rock, Tribal Music, Symphonic Tribal Rock, Piano Rock</genre>
+    <songs>
+      <song duration="04:57">Avalon</song>
+      <song duration="08:41">7 Years</song>
+      <song duration="05:08">Broken Road</song>
+      <song duration="04:17">Sinner's Prayer</song>
+      <song duration="05:28">My Light</song>
+      <song duration="06:45">The Rise</song>
+      <song duration="05:10">Until Then...</song>
+      <song duration="05:50">The Departed</song>
+      <song duration="04:40">Eyes of a Child</song>
+      <song duration="03:43">In Through Time</song>
+    </songs>
+  </album>
+  <album>
+    <name>Lost and Found</name>
+    <artist>Mudvayne</artist>
+    <year>2005.04.12</year>
+    <producer>Dave Fortman</producer>
+    <price>15.00</price>
+    <genre>Alternative metal, heavy metal, groove metal</genre>
+    <songs>
+      <song duration="02:39">Determined</song>
+      <song duration="03:28">Pushing Through</song>
+      <song duration="03:37">Happy?</song>
+      <song duration="05:51">IMN</song>
+      <song duration="03:51">Fall into Sleep</song>
+      <song duration="04:35">Rain. Sun. Gone.</song>
+      <song duration="08:05">Choices</song>
+      <song duration="03:35">Forget to Remember</song>
+      <song duration="03:26">TV Radio</song>
+      <song duration="03:00">Just</song>
+      <song duration="06:11">All That You Are</song>
+      <song duration="05:05">Pulling the String</song>
+    </songs>
+  </album>
+</albums>

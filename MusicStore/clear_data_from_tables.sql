@@ -1,0 +1,6 @@
+DELETE FROM Artists
+DELETE FROM Albums
+DELETE FROM Producers
+DELETE FROM AlbumGenre
+DELETE FROM Songs
+DELETE FROM Genre
